@@ -1,3 +1,6 @@
 [submodule "extensions/nextgres-mysql-sql-extension"]
 	path = extensions/nextgres-mysql-sql-extension
 	url = https://github.com/nextgres/nextgres-mysql-sql-extension.git
+[submodule "third-party/postgresql_modified_for_babelfish"]
+	path = third-party/postgresql_modified_for_babelfish
+	url = https://github.com/nextgres/postgresql_modified_for_babelfish.git
