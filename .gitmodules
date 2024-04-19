@@ -1,0 +1,3 @@
+[submodule "extensions/nextgres-mysql-sql-extension"]
+	path = extensions/nextgres-mysql-sql-extension
+	url = https://github.com/nextgres/nextgres-mysql-sql-extension.git
